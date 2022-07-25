@@ -1,0 +1,77 @@
+;设置规则标志位
+ruleset=🌏 Proxynd,https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/General.list
+ruleset=🌏 Proxynd,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
+ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list
+ruleset=🍎 Apple,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list
+ruleset=Ⓜ️ Microsoft,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list
+ruleset=🔮 Google,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
+ruleset=📺 Stream™,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
+ruleset=📺 Stream™,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
+ruleset=🎞️ Erotica,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
+ruleset=🎞️ Erotica,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
+ruleset=🎞️ Erotica,https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/Porn.list
+ruleset=🎬 EmbyVIP,https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/EmbyVip.list
+ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Download.list
+ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=REJECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=REJECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
+ruleset=REJECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
+ruleset=REJECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
+ruleset=DIRECT,[]GEOIP,CN
+ruleset=🌏 Proxynd,[]MATCH
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=🌏 Proxynd`select`(hk2|us1|tw1)`[]DIRECT
+custom_proxy_group=📲 Telegram`select`(azhk|azsg)
+custom_proxy_group=🍎 Apple`select`(hk2|us1)
+custom_proxy_group=Ⓜ️ Microsoft`select`(hk2|us1)
+custom_proxy_group=🔮 Google`select`(hk2|us1)
+custom_proxy_group=📺 Stream™`select`(azsh.*tw1|azsh1-sg|azsh2-sg)
+custom_proxy_group=🎞️ Erotica`select`(iplc1-jp|iplc2-jp)
+custom_proxy_group=🎬 EmbyVIP`select`(azhk)`[]DIRECT
+
+
+;设置分组标志位
+
+;过滤节点
+
+
+;重命名第一个订阅地址的节点名称
+
+
+;重命名第二个订阅地址的节点名称
+
+
+;重命名第三个订阅地址的节点名称
+
+
+;添加emoji
+emoji=(懒人节点),🦥
+emoji=(香港|港|HGC|hk|Azure),🇭🇰
+emoji=(台湾|hinet|tw),🇹🇼
+emoji=(日本|JP|jp|东京|苏日),🇯🇵
+emoji=(韩国|沪韩|春川),🇰🇷
+emoji=(新加坡|狮城|sg),🇸🇬
+emoji=(美国|us|沪美),🇺🇸
+emoji=(以色列),🇮🇱
+emoji=(加拿大),🇨🇦
+emoji=(南非),🇿🇦
+emoji=(卢森堡),🇱🇺
+emoji=(捷克),🇨🇿
+emoji=(泰国),🇹🇭
+emoji=(澳大利亚),🇦🇺
+emoji=(英国|UK),🇬🇧
+emoji=(荷兰),🇳🇱
+emoji=(越南),🇻🇳
+emoji=(阿根廷),🇦🇷
+emoji=(西班牙),🇪🇸
+emoji=(土耳其),🇹🇷
+emoji=(乌克兰),🇺🇦
+emoji=(瑞士),🇨🇭
+emoji=(巴西),🇧🇷
+emoji=(法国),🇫🇷
+emoji=(俄罗斯),🇷🇺
+emoji=(冰岛),🇮🇸
+emoji=(智利),🇨🇱
+emoji=(印度),🇮🇳
