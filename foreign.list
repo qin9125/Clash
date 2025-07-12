@@ -1,15 +1,15 @@
 # 国外网站
-DOMAIN,mac-torrent-download.net,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,appstorrent.ru,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,tonymacx86.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,javbooks.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,bitwarden.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,nnmclub.to,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,vmware.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,rutracker.org,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,torrentmac.net,"🇺🇳 国外网站"
-DOMAIN-KEYWORD,paypal,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,paypal.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,paypalobjects.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,tekqart.com,"🇺🇳 国外网站"
-DOMAIN-SUFFIX,gkinto.com,"🇺🇳 国外网站"
+DOMAIN,mac-torrent-download.net
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,tonymacx86.com
+DOMAIN-SUFFIX,javbooks.com
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,vmware.com
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,torrentmac.net
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,tekqart.com
+DOMAIN-SUFFIX,gkinto.com
