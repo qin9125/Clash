@@ -1,4 +1,5 @@
 # 代理列表
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
@@ -33,8 +34,8 @@ DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,uk
-DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,ca
 
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
