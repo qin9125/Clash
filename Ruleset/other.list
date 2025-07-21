@@ -1,5 +1,11 @@
 # Other
 # 123盘
+# 123 网盘直连规则
 DOMAIN-SUFFIX,123pan.com
-DOMAIN-SUFFIX,123295.com
-DOMAIN-SUFFIX,cjjd19.com
+DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,icustom.123pan.com
+DOMAIN,cdn.123pan.cn
+DOMAIN,upload.123pan.cn
+DOMAIN,dl.123pan.cn
+IP-CIDR,123.56.0.0/16,no-resolve
+IP-CIDR,8.210.0.0/16,no-resolve
