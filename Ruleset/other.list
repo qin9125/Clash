@@ -12,3 +12,5 @@ IP-CIDR,123.56.0.0/16,no-resolve
 IP-CIDR,8.210.0.0/16,no-resolve
 # 汽水音乐
 DOMAIN-SUFFIX,qishui.com
+# ddnsto
+DOMAIN-SUFFIX,ddnsto.com
