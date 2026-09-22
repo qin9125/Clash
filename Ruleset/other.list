@@ -16,9 +16,3 @@ DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,ddnsto.com
 # 115
 DOMAIN-SUFFIX,115cdn.net
-# anilist
-DOMAIN-SUFFIX,anilist.co
-DOMAIN-SUFFIX,anichart.net
-DOMAIN,graphql.anilist.co
-# archive
-DOMAIN-SUFFIX,archive.org
