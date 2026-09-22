@@ -2,9 +2,3 @@
 DOMAIN-SUFFIX,zdz.plus
 DOMAIN-SUFFIX,emby.to
 DOMAIN-SUFFIX,emby.gg
-# anilist
-DOMAIN-SUFFIX,anilist.co
-DOMAIN-SUFFIX,anichart.net
-DOMAIN,graphql.anilist.co
-# archive
-DOMAIN-SUFFIX,archive.org
